@@ -1,9 +1,7 @@
 #typecasting
 
-a="3"
-b="4"
+a="1000"
+b="400"
 print(int(a) + int(b))
 
-print("hello python ! ")
-
-print("hello python ! ")
+print("Dipali Bhandurge here!")
